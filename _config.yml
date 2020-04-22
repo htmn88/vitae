@@ -6,14 +6,14 @@ permalink: :title.html
 paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
-safe: true
-url: http://jekyller.github.io/vitae
+safe: true 
+url: https://htmn88.github.io/vitae/
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: //
+baseurl: /
 title: Ngoc Hoang's Resume
 name: Ngoc Hoang
 email: hoangthimyngoc@hotmail.com
