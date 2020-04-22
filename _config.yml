@@ -13,7 +13,7 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Ngoc Hoang's Resume
 name: Ngoc Hoang
 email: hoangthimyngoc@hotmail.com
@@ -27,7 +27,7 @@ tel_full: tel:+358 442393943
 google_maps: 'https://goo.gl/maps/i6cWF3KQx3LHf7Ft5'
 address:
   street: Mariankatu 24C 18
-  postcode: 00170 
+  postcode: '00170' 
   city: Helsinki
   country: Finland
 google_analytics: UA-69300817-1
